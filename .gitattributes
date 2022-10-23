@@ -32,6 +32,11 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# Query By Example source file
+*.qbe linguist-detectable=true
+*.qbe linguist-documentation=false
+*.qbe linguist-language=QueryByExample
+# GitHub doesn't recognize the language yet, so for now, it will default to HTML
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -164,7 +169,7 @@
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+# File type: gitattributes file (*.gitattributes)
+# File version: 5 (2022, Saturday, October 22nd at 6:16 pm PST)
+# Line count (including blank lines and compiler line): 176
 # End of script
